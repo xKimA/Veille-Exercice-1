@@ -2,6 +2,7 @@ header{
 
     border: 3px solid turquoise;
     background-color:rgb(245, 116, 137);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
 
@@ -15,16 +16,20 @@ main{
     font-size:50px;
     color:rgb(245, 116, 137);
     border : 4px dotted black;
+    background-color: palegreen;
 }
 
 main p{
     margin-left:20px;
+    
 }
 
 footer{
     border: 3px solid turquoise;
-    height:45px;
+    background-color:rgb(245, 116, 137);
+    height:85px;
     text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 
