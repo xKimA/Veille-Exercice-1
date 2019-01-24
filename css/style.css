@@ -15,9 +15,16 @@ main{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size:50px;
     color:rgb(245, 116, 137);
+    border : 4px dotted black;
 }
 
 main p{
     margin-left:20px;
+}
+
+footer{
+    border: 3px solid turquoise;
+    height:45px;
+    text-align:center;
 }
 
