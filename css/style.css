@@ -1,3 +1,19 @@
-header, main, footer {
-    border: 1px solid yellow;
+header{
+    border: 3px solid turquoise;
+    background-color:rgb(245, 116, 137);
 }
+
+header h1, h2{
+    margin-left:20px;
+}
+
+main{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:50px;
+    color:rgb(245, 116, 137);
+}
+
+main p{
+    margin-left:20px;
+}
+
